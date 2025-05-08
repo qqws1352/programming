@@ -1,1 +1,2 @@
+alien_game 直接导入即可游玩再次不加赘述
 这里面有不同的文件夹如Weather_Analysis，每个包里面有其对于的Readme文件以供参考
